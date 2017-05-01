@@ -1,7 +1,7 @@
 ## 东方新闻
 ### 闪屏界面
 
-<img src="https://github.com/android-jian/helloworld/blob/master/images/splash.png" width="300"/>
+<img src="https://github.com/android-jian/helloworld/blob/master/images/splash.png" width="250"/>
 
 ### 主界面
 
@@ -18,7 +18,7 @@
   
   效果图展示：
 
-  <img src="https://github.com/android-jian/helloworld/blob/master/images/topnew.png" width="300"/>  <img src="https://github.com/android-jian/helloworld/blob/master/images/loadmore.png" width="300"/>
+  <img src="https://github.com/android-jian/helloworld/blob/master/images/topnew.png" width="250"/>  <img src="https://github.com/android-jian/helloworld/blob/master/images/loadmore.png" width="250"/>
 
 
 * 美女模块：
@@ -26,7 +26,7 @@
 
   效果图展示：
   
-  <img src="https://github.com/android-jian/helloworld/blob/master/images/beautiful.png" width="300"/>
+  <img src="https://github.com/android-jian/helloworld/blob/master/images/beautiful.png" width="250"/>
 
 * 话题模块还未编写
 
@@ -39,19 +39,19 @@
   
   上传头像：
   
-  <img src="https://github.com/android-jian/helloworld/blob/master/images/icon_load.png" width="300"/>
+  <img src="https://github.com/android-jian/helloworld/blob/master/images/icon_load.png" width="250"/>
   
   收藏界面：
   
-  <img src="https://github.com/android-jian/helloworld/blob/master/images/keepone.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/keeptwo.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/keepthree.png" width="300"/>
+  <img src="https://github.com/android-jian/helloworld/blob/master/images/keepone.png" width="250"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/keeptwo.png" width="250"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/keepthree.png" width="250"/>
   
   阅读记录：
   
-  <img src="https://github.com/android-jian/helloworld/blob/master/images/history.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/historytwo.png" width="300"/>
+  <img src="https://github.com/android-jian/helloworld/blob/master/images/history.png" width="250"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/historytwo.png" width="250"/>
   
   二维码扫描：
   
-   <img src="https://github.com/android-jian/helloworld/blob/master/images/scan.png" width="300"/>
+   <img src="https://github.com/android-jian/helloworld/blob/master/images/scan.png" width="250"/>
   
   夜间模式：
   
