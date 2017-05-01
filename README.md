@@ -62,7 +62,7 @@
   集成ShareSDK实现新闻分享功能，并模仿网易新闻，实现截屏分享。
   效果图展示：
   
-  <img src="https://github.com/android-jian/helloworld/blob/master/images/detail.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/share.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/shareQZone.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/wechat.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/Screencut.png" width="300"/>
+  <img src="https://github.com/android-jian/helloworld/blob/master/images/detail.png" width="250"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/share.png" width="250"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/shareQZone.png" width="250"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/wechat.png" width="250"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/Screencut.png" width="250"/>
   
 ## 关于作者
 ```javascript
