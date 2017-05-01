@@ -1,7 +1,7 @@
 ## 东方新闻
 ### 闪屏界面
 
-<img src="https://github.com/android-jian/helloworld/blob/master/images/splash.png" width="400"/>
+<img src="https://github.com/android-jian/helloworld/blob/master/images/splash.png" width="300"/>
 
 ### 主界面
 
@@ -26,7 +26,7 @@
 
   效果图展示：
   
-  <img src="https://github.com/android-jian/helloworld/blob/master/images/beautiful.png" width="400"/>
+  <img src="https://github.com/android-jian/helloworld/blob/master/images/beautiful.png" width="300"/>
 
 * 话题模块还未编写
 
@@ -39,19 +39,19 @@
   
   上传头像：
   
-  <img src="https://github.com/android-jian/helloworld/blob/master/images/icon_load.png" width="400"/>
+  <img src="https://github.com/android-jian/helloworld/blob/master/images/icon_load.png" width="300"/>
   
   收藏界面：
   
-  <img src="https://github.com/android-jian/helloworld/blob/master/images/keepone.png" width="400"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/keeptwo.png" width="400"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/keepthree.png" width="400"/>
+  <img src="https://github.com/android-jian/helloworld/blob/master/images/keepone.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/keeptwo.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/keepthree.png" width="300"/>
   
   阅读记录：
   
-  <img src="https://github.com/android-jian/helloworld/blob/master/images/history.png" width="400"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/historytwo.png" width="400"/>
+  <img src="https://github.com/android-jian/helloworld/blob/master/images/history.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/historytwo.png" width="300"/>
   
   二维码扫描：
   
-   <img src="https://github.com/android-jian/helloworld/blob/master/images/scan.png" width="400"/>
+   <img src="https://github.com/android-jian/helloworld/blob/master/images/scan.png" width="300"/>
   
   夜间模式：
   
@@ -62,7 +62,7 @@
   集成ShareSDK实现新闻分享功能，并模仿网易新闻，实现截屏分享。
   效果图展示：
   
-  <img src="https://github.com/android-jian/helloworld/blob/master/images/detail.png" width="400"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/share.png" width="400"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/shareQZone.png" width="400"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/wechat.png" width="400"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/Screencut.png" width="400"/>
+  <img src="https://github.com/android-jian/helloworld/blob/master/images/detail.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/share.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/shareQZone.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/wechat.png" width="300"/> <img src="https://github.com/android-jian/helloworld/blob/master/images/Screencut.png" width="300"/>
   
 ## 关于作者
 ```javascript
