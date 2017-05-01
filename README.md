@@ -18,7 +18,7 @@
   
   效果图展示：
 
-  <img src="https://github.com/android-jian/helloworld/blob/master/images/topnew.png" width="400"/>  <img src="https://github.com/android-jian/helloworld/blob/master/images/loadmore.png" width="400"/>
+  <img src="https://github.com/android-jian/helloworld/blob/master/images/topnew.png" width="300"/>  <img src="https://github.com/android-jian/helloworld/blob/master/images/loadmore.png" width="300"/>
 
 
 * 美女模块：
