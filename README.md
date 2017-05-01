@@ -14,7 +14,7 @@
   首页整体分为两部分，即顶部的ViewPager指示器和ViewPager，ViewPager指示器使用了第三方开源框架。
   下方的ViewPager同样借助FragmentPagerAdapter。Fragment（头条）整体为RecyclerView，实现下拉刷新及上拉加载功能，
   根据ViewType不同，分为三个部分，顶部的HeaderView、新闻条目ItemView、底部FooterView。HeaderView又是一个
-  ViewPager，进行图片轮播效果展示。ItemView作为新闻条目。FooterView用来显示加载状态。将数据加载操作进行抽取，根据加载的不同状态显示相应界面
+  ViewPager，进行图片轮播效果展示。ItemView作为新闻条目。FooterView用来显示加载状态。并将数据加载操作进行抽取，根据加载的不同状态显示相应界面
   
   效果图展示：
 
